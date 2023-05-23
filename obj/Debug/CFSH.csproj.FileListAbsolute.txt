@@ -1,0 +1,8 @@
+C:\Users\themis\source\repos\CFSH\bin\Debug\CFSH.exe.config
+C:\Users\themis\source\repos\CFSH\bin\Debug\CFSH.exe
+C:\Users\themis\source\repos\CFSH\bin\Debug\CFSH.pdb
+C:\Users\themis\source\repos\CFSH\obj\Debug\CFSH.csproj.AssemblyReference.cache
+C:\Users\themis\source\repos\CFSH\obj\Debug\CFSH.csproj.SuggestedBindingRedirects.cache
+C:\Users\themis\source\repos\CFSH\obj\Debug\CFSH.csproj.CoreCompileInputs.cache
+C:\Users\themis\source\repos\CFSH\obj\Debug\CFSH.exe
+C:\Users\themis\source\repos\CFSH\obj\Debug\CFSH.pdb

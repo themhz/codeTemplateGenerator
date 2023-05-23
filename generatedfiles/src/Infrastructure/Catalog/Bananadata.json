@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "6191794b-6b30-4024-bbb2-b4846531d2f4",    
+    "Name": "Test1",
+    "ImageUrl": "https://fullstackhero.net/images/navbar-logo.png",
+    "Description": "Sample Data 1"
+  },
+  {
+    "Id": "30d00226-0f8e-4618-a5fa-d245d7cd70df",
+    "Name": "Test2",
+    "ImageUrl": "https://fullstackhero.net/images/navbar-logo.png",
+    "Description": "Sample Data 2"
+  },
+  {
+    "Id": "f2ea9ec2-2d8a-4130-85b7-2c2ee4084dd1",
+    "Name": "Test3",
+    "ImageUrl": "https://fullstackhero.net/images/navbar-logo.png",
+    "Description": "Sample Data 3"
+  },
+  {
+    "Id": "99b2259a-911d-4269-852f-2f9bcf624b6d",
+    "Name": "Test4",
+    "ImageUrl": "https://fullstackhero.net/images/navbar-logo.png",
+    "Description": "Sample Data 4"
+  }
+]
